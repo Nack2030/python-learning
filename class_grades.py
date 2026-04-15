@@ -18,3 +18,4 @@ while i <= iterations:
     except ValueError:
         print(f"Invalid marks entered, going to next student")
     i += 1
+print(f"Class results completed. {iterations} students processed")
